@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrmetzge
+- 👋 Hi, I’m @jrmetzge. I am a speciaist resercher with the Kroeker lab at UC Santa Cruz. 
 - 👀 I’m interested in marine ecology, particularly of nearshore, rocky reef communities and their community drivers.
 - 🌱 I’m currently learning R and GitHub and integrating them into multivariate community analyses to identify drivers of change in marine communities.
 - 📫 How to reach me: jrmetzge@ucsc.edu
